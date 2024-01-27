@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=색상코드&height=150&section=header&text=MULATTA&fontSize=텍스트크기" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=색상코드&height=150&section=header&text=MULATTA&fontSize=30" />
